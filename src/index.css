@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Otimizações de performance */
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply font-sans;
+    /* Otimização de renderização */
+    text-rendering: optimizeLegibility;
+    /* Melhor legibilidade no mobile */
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* Melhor legibilidade de texto no mobile */
+  p, li, span, div {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  /* Otimização de imagens */
+  img {
+    content-visibility: auto;
+  }
+
+  /* Touch-friendly para elementos interativos */
+  button, a, input, select, textarea {
+    touch-action: manipulation;
+  }
+
+  /* Remover animações pesadas em dispositivos com preferência de movimento reduzido */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  /* Classe para touch-friendly */
+  .touch-manipulation {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Otimização de scroll */
+  .scroll-smooth {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Melhor performance para animações */
+  .will-change-transform {
+    will-change: transform;
+  }
+
+  .will-change-opacity {
+    will-change: opacity;
+  }
+
+  /* GPU acceleration para elementos animados */
+  .gpu-accelerated {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+}
