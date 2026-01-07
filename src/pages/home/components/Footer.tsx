@@ -53,7 +53,7 @@ export function Footer() {
                 <div className="w-5 h-5 flex items-center justify-center mt-0.5">
                   <i className="ri-mail-fill text-[#FFC107]"></i>
                 </div>
-                <span className="text-gray-300 text-sm">contato@tendasbrasil.com.br</span>
+                <span className="text-gray-300 text-sm">contato@tendasaluban.com.br</span>
               </li>
               <li className="flex items-start gap-2">
                 <div className="w-5 h-5 flex items-center justify-center mt-0.5">
@@ -71,14 +71,6 @@ export function Footer() {
             <p className="text-gray-300 text-sm text-center md:text-left">
               © {new Date().getFullYear()} Tendas Aluban. Todos os direitos reservados.
             </p>
-            <a 
-              href="https://readdy.ai/?origin=logo" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-gray-300 hover:text-white text-sm transition-colors duration-300 cursor-pointer"
-            >
-              Website Builder
-            </a>
           </div>
         </div>
       </div>
