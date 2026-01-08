@@ -27,15 +27,13 @@ export function ProductsSection() {
       price: 'R$ 299,90',
       description: 'Ideal para feirantes e eventos rápidos. Montagem em 60 segundos. Disponível para compra ou aluguel. Lona com proteção UV e Impermeável.',
       images: [
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/a855225663022c73bfae1640367f5049.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/13267ef49862ef9ca04cb7a59dd4c262.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/801d3ac580e10d99fb14bf60bc3386a8.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/ed64b37114f8bb70fdab144696d8a5d8.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/09072b4d81b44ed2bbd0c68bd6e64b2d.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/814213ba2bdc161de7fd1897b610ba35.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/7890ac764f5824654dce97c3ce3842ca.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/5cd36507c54468af826e7e018fabda17.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/65c2b6cac0be71eefd94a703fba4f6c3.png'
+        '/images/products/tenda-sanfonada-articulada/2.png',
+        '/images/products/tenda-sanfonada-articulada/3.png',
+        '/images/products/tenda-sanfonada-articulada/4.png',
+        '/images/products/tenda-sanfonada-articulada/5.png',
+        '/images/products/tenda-sanfonada-articulada/6.png',
+        '/images/products/tenda-sanfonada-articulada/7.png',
+        '/images/products/tenda-sanfonada-articulada/8.png'
       ],
       features: [
         'Montagem em 60 segundos sem ferramentas',
@@ -59,14 +57,13 @@ export function ProductsSection() {
       price: 'R$ 1.099,90',
       description: 'A escolha da engenharia e grandes eventos. Estrutura robusta disponível para compra ou aluguel. Sistema de calhas para acoplamento de múltiplas tendas (Galpões Infinitos).',
       images: [
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/b53e404b127599a63a0607fa98bdcb95.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/4496a49615ef7884fc5b076f2fa4893e.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/cb058031cff02d859e5c67c2981af4e8.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/b1954d7fcde1ac6f8c270ce64f81b53e.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/8805e3a2da97eb5bd1c6c8754758cb09.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/b2967a997ab62144f439648042fd215b.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/e3592529aa4326689087213ce47798fa.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/7214c761e1e045dd2e4375a87158bfb4.png'
+        '/images/products/tenda-piramidal-profissional/13.png',
+        '/images/products/tenda-piramidal-profissional/14.png',
+        '/images/products/tenda-piramidal-profissional/15.png',
+        '/images/products/tenda-piramidal-profissional/16.png',
+        '/images/products/tenda-piramidal-profissional/17.png',
+        '/images/products/tenda-piramidal-profissional/18.png',
+        '/images/products/tenda-piramidal-profissional/19.png'
       ],
       features: [
         'Estrutura em Aço Galvanizado Bitola 13, 14 ou 16',
@@ -90,14 +87,13 @@ export function ProductsSection() {
       price: 'R$ 1.299,90',
       description: 'Pé direito alto e design pontiagudo para casamentos e áreas VIP. Disponível para compra ou aluguel. Lona PVC vinílico com tratamento anti-chama e anti-mofo.',
       images: [
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/f829b559b6664fbbcef2ba39e3395c98.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/7a36e4ad7180a6bb30234488c3e22cc6.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/ce9f4ffb50c3ad30b954c44cca94cb05.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/c7982f2d1d3cde61380c1feae4ae425c.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/cb988d63afc87d735e650d5208ef0252.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/928f3d20395817622a157915ac2e0741.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/e6691cc4914ed6fd8eb65c5efaaa8c05.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/f36ca66ccfca9520530b6d590e00bbc9.png'
+        '/images/products/tenda-chapeu-de-bruxa/21.png',
+        '/images/products/tenda-chapeu-de-bruxa/22.png',
+        '/images/products/tenda-chapeu-de-bruxa/23.png',
+        '/images/products/tenda-chapeu-de-bruxa/24.png',
+        '/images/products/tenda-chapeu-de-bruxa/25.png',
+        '/images/products/tenda-chapeu-de-bruxa/26.png',
+        '/images/products/tenda-chapeu-de-bruxa/27.png'
       ],
       features: [
         'Design cônico exclusivo com pé direito alto',
@@ -121,12 +117,12 @@ export function ProductsSection() {
       price: 'R$ 449,90',
       description: 'Perfeita para camping e aventuras ao ar livre. Sistema sanfonado de montagem rápida com proteção total contra chuva e vento. Ideal para famílias e grupos.',
       images: [
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/66097a6d15690e28aa1463ba3433e0bf.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/0ddf38b8b7d7dd30c7fe1c761373b6e2.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/87a687d88b844c58a4ea3cc0b114cce3.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/5fac68e4b16e0b41875bf16b7144cc18.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/528231450d2ccbeb1582280a3c4b90fa.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/fe10f3fe9dc0fd403a5c2d4cf4e17f74.png'
+        '/images/products/tenda-sanfonada-camping/34.png',
+        '/images/products/tenda-sanfonada-camping/35.png',
+        '/images/products/tenda-sanfonada-camping/36.png',
+        '/images/products/tenda-sanfonada-camping/37.png',
+        '/images/products/tenda-sanfonada-camping/38.png',
+        '/images/products/tenda-sanfonada-camping/39.png'
       ],
       features: [
         'Montagem rápida tipo sanfonada',
@@ -150,12 +146,12 @@ export function ProductsSection() {
       price: 'R$ 1.499,90',
       description: 'Sistema de calhas integrado para escoamento de água. Ideal para corredores, áreas de circulação e eventos que necessitam união de múltiplos módulos. Estrutura modular expansível.',
       images: [
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/d8eb5da7a74d0faf242e723161b41037.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/b49645261cb3cf734c05d4ce3256e5d3.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/5decbbdb6b27f8ca4b249204d437f191.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/564a8b4544bcbd772d5937b6eac0e847.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/dadb4ede620787128a0965ed60069c61.png',
-        'https://static.readdy.ai/image/ca6cf53a86f87279e2de7045808c4d0c/77a95d67f72bad741b78c9fbbdbde45b.png'
+        '/images/products/tenda-calha/40.png',
+        '/images/products/tenda-calha/41.png',
+        '/images/products/tenda-calha/42.png',
+        '/images/products/tenda-calha/43.png',
+        '/images/products/tenda-calha/44.png',
+        '/images/products/tenda-calha/45.png'
       ],
       features: [
         'Sistema de calhas para escoamento de água',
@@ -253,7 +249,7 @@ export function ProductsSection() {
 
   const handleTouchEnd = (productId: number, totalImages: number) => {
     if (!touchStart[productId] || !touchEnd[productId]) return;
-    
+
     const distance = touchStart[productId] - touchEnd[productId];
     const isLeftSwipe = distance > 50;
     const isRightSwipe = distance < -50;
@@ -306,7 +302,7 @@ export function ProductsSection() {
 
               return (
                 <article key={product.id} className="bg-white rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:transform hover:scale-105 cursor-pointer">
-                  <div 
+                  <div
                     className="aspect-square overflow-hidden relative group"
                     onTouchStart={(e) => handleTouchStart(product.id, e)}
                     onTouchMove={(e) => handleTouchMove(product.id, e)}
@@ -320,7 +316,7 @@ export function ProductsSection() {
                       loading={isFirstProduct ? "eager" : "lazy"}
                       onClick={(e) => handleImageClick(product.images[currentIndex], e)}
                     />
-                    
+
                     {hasMultipleImages && (
                       <>
                         {/* Setas maiores e mais touch-friendly */}
@@ -331,7 +327,7 @@ export function ProductsSection() {
                         >
                           <i className="ri-arrow-left-s-line text-3xl"></i>
                         </button>
-                        
+
                         <button
                           onClick={(e) => nextImage(product.id, product.images.length, e)}
                           className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/60 hover:bg-black/80 text-white w-12 h-12 sm:w-14 sm:h-14 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 cursor-pointer z-10 touch-manipulation"
@@ -346,11 +342,10 @@ export function ProductsSection() {
                             <button
                               key={index}
                               onClick={(e) => goToImage(product.id, index, e)}
-                              className={`h-2.5 rounded-full transition-all duration-300 cursor-pointer touch-manipulation ${
-                                index === currentIndex
+                              className={`h-2.5 rounded-full transition-all duration-300 cursor-pointer touch-manipulation ${index === currentIndex
                                   ? 'bg-white w-8'
                                   : 'bg-white/50 hover:bg-white/75 w-2.5'
-                              }`}
+                                }`}
                               aria-label={`Ir para imagem ${index + 1}`}
                             />
                           ))}
@@ -364,21 +359,21 @@ export function ProductsSection() {
                       </>
                     )}
                   </div>
-                
+
                   <div className="p-6">
                     <h3 className="text-2xl font-bold text-[#1A4D2E] mb-2">
                       <a href="#produtos">{product.name}</a>
                     </h3>
                     <p className="text-sm font-semibold text-[#FFC107] mb-3">{product.subtitle}</p>
-                    
+
                     {/* Preço em destaque */}
                     <div className="bg-gradient-to-r from-[#FFC107]/10 to-[#FFC107]/5 border-2 border-[#FFC107] rounded-lg p-4 mb-4">
                       <p className="text-xs text-gray-600 mb-1 font-medium">A partir de</p>
                       <p className="text-3xl font-bold text-[#FFC107]">{product.price}</p>
                     </div>
-                    
+
                     <p className="text-gray-600 mb-4 line-clamp-3 text-base leading-relaxed">{product.description}</p>
-                    
+
                     <button
                       onClick={() => setSelectedProduct(product)}
                       className="w-full bg-[#1A4D2E] hover:bg-[#002244] text-white font-semibold py-4 px-6 rounded-lg transition-all duration-300 whitespace-nowrap cursor-pointer touch-manipulation text-base"
@@ -401,7 +396,7 @@ export function ProductsSection() {
                   <div className="flex-1">
                     <h3 className="text-2xl sm:text-3xl font-bold text-[#1A4D2E] mb-2">{selectedProduct.name}</h3>
                     <p className="text-base sm:text-lg font-semibold text-[#FFC107] mb-3">{selectedProduct.subtitle}</p>
-                    
+
                     {/* Preço no modal */}
                     <div className="inline-block bg-gradient-to-r from-[#FFC107]/10 to-[#FFC107]/5 border-2 border-[#FFC107] rounded-lg px-6 py-3">
                       <p className="text-xs text-gray-600 font-medium">A partir de</p>
@@ -415,9 +410,9 @@ export function ProductsSection() {
                     <i className="ri-close-line text-3xl"></i>
                   </button>
                 </div>
-                
+
                 {/* Carrossel no Modal com swipe */}
-                <div 
+                <div
                   className="relative mb-6 group"
                   onTouchStart={(e) => handleTouchStart(selectedProduct.id, e)}
                   onTouchMove={(e) => handleTouchMove(selectedProduct.id, e)}
@@ -430,7 +425,7 @@ export function ProductsSection() {
                     onClick={(e) => handleImageClick(selectedProduct.images[currentImageIndex[selectedProduct.id] || 0], e)}
                     loading="lazy"
                   />
-                  
+
                   {selectedProduct.images.length > 1 && (
                     <>
                       <button
@@ -439,7 +434,7 @@ export function ProductsSection() {
                       >
                         <i className="ri-arrow-left-s-line text-3xl"></i>
                       </button>
-                      
+
                       <button
                         onClick={(e) => nextImage(selectedProduct.id, selectedProduct.images.length, e)}
                         className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/60 hover:bg-black/80 text-white w-12 h-12 sm:w-14 sm:h-14 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 cursor-pointer touch-manipulation"
@@ -452,11 +447,10 @@ export function ProductsSection() {
                           <button
                             key={index}
                             onClick={(e) => goToImage(selectedProduct.id, index, e)}
-                            className={`h-2.5 rounded-full transition-all duration-300 cursor-pointer touch-manipulation ${
-                              index === (currentImageIndex[selectedProduct.id] || 0)
+                            className={`h-2.5 rounded-full transition-all duration-300 cursor-pointer touch-manipulation ${index === (currentImageIndex[selectedProduct.id] || 0)
                                 ? 'bg-white w-8'
                                 : 'bg-white/50 hover:bg-white/75 w-2.5'
-                            }`}
+                              }`}
                           />
                         ))}
                       </div>
@@ -469,9 +463,9 @@ export function ProductsSection() {
                     </>
                   )}
                 </div>
-                
+
                 <p className="text-base sm:text-lg text-gray-700 mb-6 leading-relaxed">{selectedProduct.description}</p>
-                
+
                 <div className="grid md:grid-cols-2 gap-6 mb-6">
                   <div>
                     <h4 className="text-lg sm:text-xl font-bold text-[#1A4D2E] mb-3 flex items-center gap-2">
@@ -491,7 +485,7 @@ export function ProductsSection() {
                       ))}
                     </ul>
                   </div>
-                  
+
                   <div>
                     <h4 className="text-lg sm:text-xl font-bold text-[#1A4D2E] mb-3 flex items-center gap-2">
                       <div className="w-6 h-6 flex items-center justify-center">
@@ -511,7 +505,7 @@ export function ProductsSection() {
                     </ul>
                   </div>
                 </div>
-                
+
                 <button
                   onClick={() => handleWhatsAppClick(selectedProduct.name)}
                   className="w-full bg-[#FFC107] hover:bg-[#E55A2B] text-white font-bold py-4 sm:py-5 px-6 rounded-lg transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer whitespace-nowrap touch-manipulation text-base sm:text-lg"
@@ -528,7 +522,7 @@ export function ProductsSection() {
 
         {/* Modal de Zoom */}
         {isZoomed && (
-          <div 
+          <div
             className="fixed inset-0 bg-black/95 z-[60] flex items-center justify-center p-4"
             onClick={closeZoom}
           >
