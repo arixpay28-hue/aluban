@@ -7,7 +7,7 @@ export function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Tendas Aluban</h3>
             <p className="text-gray-300 text-sm leading-relaxed">
-              Fabricante de tendas sanfonadas e piramidais com entrega para todo o Brasil. 
+              Fabricante de tendas sanfonadas e piramidais com entrega para todo o Brasil.
               Qualidade industrial, preço de fábrica e garantia real.
             </p>
           </div>
@@ -47,7 +47,7 @@ export function Footer() {
                 <div className="w-5 h-5 flex items-center justify-center mt-0.5">
                   <i className="ri-phone-fill text-[#FFC107]"></i>
                 </div>
-                <span className="text-gray-300 text-sm">(11) 91234-5678</span>
+                <span className="text-gray-300 text-sm">(61) 98263-0276</span>
               </li>
               <li className="flex items-start gap-2">
                 <div className="w-5 h-5 flex items-center justify-center mt-0.5">

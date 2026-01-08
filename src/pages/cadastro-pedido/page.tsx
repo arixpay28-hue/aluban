@@ -297,7 +297,7 @@ export default function CadastroPedido() {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#FFC107] focus:border-transparent text-sm sm:text-base"
-                  placeholder="(11) 91234-5678"
+                  placeholder="(61) 98263-0276"
                 />
               </div>
 
@@ -393,7 +393,7 @@ export default function CadastroPedido() {
               </p>
               <div className="flex justify-center">
                 <a
-                  href="https://wa.me/5512981815371"
+                  href="https://wa.me/5561982630276"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#20BA5A] text-white font-semibold py-2 sm:py-3 px-4 sm:px-6 rounded-lg transition-all duration-300 text-sm sm:text-base cursor-pointer whitespace-nowrap"

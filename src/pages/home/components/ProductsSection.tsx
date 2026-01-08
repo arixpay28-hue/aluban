@@ -204,7 +204,7 @@ export function ProductsSection() {
 
   const handleWhatsAppClick = (productName: string) => {
     const message = `Olá! Tenho interesse no produto: ${productName}. Gostaria de mais informações! 🎪`;
-    const whatsappUrl = `https://wa.me/5512981815371?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/5561982630276?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

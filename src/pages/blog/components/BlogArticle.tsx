@@ -17,7 +17,7 @@ interface BlogArticleProps {
 export function BlogArticle({ title, category, date, readTime, image, children }: BlogArticleProps) {
   const handleCTAClick = () => {
     const message = encodeURIComponent('Olá! Gostaria de solicitar um orçamento para tendas. Pode me ajudar? 🎪');
-    window.open(`https://wa.me/5512981815371?text=${message}`, '_blank');
+    window.open(`https://wa.me/5561982630276?text=${message}`, '_blank');
   };
 
   return (

@@ -43,7 +43,7 @@ export function FormSection() {
         // Redireciona para o WhatsApp com os dados preenchidos
         const mensagem = `Olá! Gostaria de um orçamento. 👋\n\n👤 *Nome:* ${formData.nome}\n📱 *WhatsApp:* ${formData.whatsapp}\n🎪 *Tipo de Tenda:* ${formData.tipo_tenda}\n📏 *Tamanho:* ${formData.tamanho}\n\nAguardo retorno! 🚀`;
         const mensagemEncoded = encodeURIComponent(mensagem);
-        window.open(`https://wa.me/5512981815371?text=${mensagemEncoded}`, '_blank');
+        window.open(`https://wa.me/5561982630276?text=${mensagemEncoded}`, '_blank');
         
         setFormData({
           nome: '',
